@@ -1,4 +1,5 @@
 NSString-MimeEncodedWord
 ========================
 
-Mime Encoded-Word parsing for Objective-C, implemented as a NSString category
+[MIME Encoded-Word](http://en.wikipedia.org/wiki/MIME#Encoded-Word) parsing for Objective-C, implemented as a NSString category.
+
