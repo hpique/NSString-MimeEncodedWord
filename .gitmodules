@@ -1,0 +1,3 @@
+[submodule "QSUtilities"]
+	path = QSUtilities
+	url = git@github.com:hpique/QSUtilities.git
